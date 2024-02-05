@@ -25,7 +25,7 @@ function App() {
                         <div class="ms-3">
                             <div>
                                 <h4 class="card-title mb-2">Elected Official Information</h4>
-                                <p class="mb-0 text-muted">type, state, district, senate_class</p>
+                                <p class="mb-0 text-muted">type, state, district, senate_class, bioguide_id, </p>
                             </div>
                             <div class="row my-4">
                                 <div class="col-md-12">
